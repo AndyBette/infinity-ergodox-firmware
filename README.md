@@ -1,9 +1,9 @@
 # Infinity ErgoDox layout and Kiibohd kll compiler
 ### Kiibohd firmware updated on 2017-02-14
 
-Forked and customized from [hlship's project](https://github.com/hlship/ergodox-infinity-layout), which in turn was forked and customized from [fredZen's project](https://github.com/fredZen/ergodox-infinity-layout). As of Feb 2017 those projects use a year-old version of the Kiibohd firmware and don't explain customizing the LCD, which is why I made this repo.
-
 My layout for the [Infinity ErgoDox](http://input.club/devices/infinity-ergodox) keyboard.
+
+Forked and customized from [hlship's project](https://github.com/hlship/ergodox-infinity-layout), which in turn was forked and customized from [fredZen's project](https://github.com/fredZen/ergodox-infinity-layout). As of Feb 2017 those projects use a year-old version of the Kiibohd firmware and don't explain customizing the LCD, which is why I made this repo.
 
 This is the basic layout:
 

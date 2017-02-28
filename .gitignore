@@ -1,0 +1,4 @@
+*.bin
+*~
+AB*.bmp
+lcd_override.kll

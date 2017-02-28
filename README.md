@@ -47,14 +47,15 @@ However, you might be surprised if you ever switch the master to the other half 
 determined by the firmware of the master half; keeping both halves in sync may spare you a lot
 of confusion.
 
-In these instructions the left half of the keyboard is master. If you are using the right half as master, execute steps 4-6 before steps 1-3.
-
+#### Flash the left half
 1. Connect the left half of your keyboard to your computer
 2. Put the keyboard into flash mode by pressing the button on the bottom of the PCB or using a key sequence that enables flashing.
 3. Execute `make install` (example output below)
-4. (Optional) Connect the right half of your keyboard to your computer
-5. (Optional) Put the keyboard into flash mode
-6. (Optional) Execute `make install-right`
+
+#### Flash the right half
+4. Connect the right half of your keyboard to your computer
+5. Put the keyboard into flash mode
+6. Execute `make install-right`
 
 ```
 18:56:59 ~/workspaces/github/ergodox-infinity-layout > make install

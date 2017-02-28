@@ -35,7 +35,7 @@ To convert a custom LCD image to the required format, you will need [Python 3](h
 
 ### Changing the LCD image
 
-1. Create a 128x32 monochrome bitmap with your desired image in the `LCDOverridlder e` fo(grayscale works, but not well because the LCD is monochrome)
+1. Create a 128x32 monochrome bitmap with your desired image in the `LCDOverride` folder. Grayscale also works, but not well because the LCD is monochrome.
 2. in that folder, run `python bitmap2Struct.py yourimage.bmp`
 3. Copy `LCDOverride/lcdoverride.kll` to the `kiibohd` folder
 4. In `kiibohd/ergodox.bash`, add the word `lcdoverride` to the string assigned to `DefaultMap`, separated by a space

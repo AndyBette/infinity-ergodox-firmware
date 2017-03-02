@@ -29,3 +29,5 @@ U"SPACE" : U"P0";
 U"UP" : U"P.";
 U"RIGHT" : U"PENTER";
 U"MINUS" : flashMode();
+U"PAGEUP" : U"PAGEUP";
+U"PAGEDOWN" : U"PAGEDOWN";

@@ -1,5 +1,5 @@
 # Infinity ErgoDox layout and Kiibohd kll compiler
-### Kiibohd firmware updated on 2017-02-14
+### Kiibohd firmware updated on 2017-03-01
 
 My layout for the [Infinity ErgoDox](http://input.club/devices/infinity-ergodox) keyboard.
 

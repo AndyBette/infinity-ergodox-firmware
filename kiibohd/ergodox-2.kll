@@ -46,3 +46,4 @@ U"RIGHT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"DOWN";
 U"RGUI" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"RIGHT";
 U"SLASH" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"UP";
 U"RCTRL" : U["LGUI"] + U"BACKTICK";
+U"ESC" : U"CAPSLOCK";

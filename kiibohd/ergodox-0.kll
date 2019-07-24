@@ -83,4 +83,3 @@ U"DOWN" : U"SLASH";
 U"UP" : U"LEFT";
 U"RIGHT" : U"DOWN";
 U"RGUI" : U"RIGHT";
-U"FUNCTION4" + U"FUNCTION5" : U["LGUI"] + U["LALT"] + U["LSHIFT"] + U"v";

@@ -50,3 +50,4 @@ U"MINUS" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"EQUAL";
 U"RBRACE" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"MINUS";
 U"LEFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";
 U"FUNCTION6" : flashMode();
+U"RSHIFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"C";

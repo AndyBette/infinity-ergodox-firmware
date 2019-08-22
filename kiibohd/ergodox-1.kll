@@ -22,3 +22,4 @@ U"0" : U"F10";
 U"PAGEUP" : U"PAGEUP";
 U"PAGEDOWN" : U"PAGEDOWN";
 U"LALT" : SYS"WAKEUP";
+U"LSHIFT" : U"LSHIFT" + U"x" , U"x" , U"x";

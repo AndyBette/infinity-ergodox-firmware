@@ -28,7 +28,7 @@ U"S" : U"S";
 U"A" : U"A";
 U"TAB" : U"BACKSLASH";
 U"LALT" : U"FUN1";
-U"LCTRL" : U"LCTRL"; U["LGUI"] + U"s"
+U"LCTRL" : U["LGUI"] + U"s";
 U"FUNCTION2" : U"ENTER";
 U"B" : U"B";
 U"V" : U"V";

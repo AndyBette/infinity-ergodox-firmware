@@ -21,5 +21,6 @@ U"9" : U"F9";
 U"0" : U"F10";
 U"PAGEUP" : U"PAGEUP";
 U"PAGEDOWN" : U"PAGEDOWN";
-U"LALT" : SYS"WAKEUP";
-U"LSHIFT" : U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x";
+U"RALT" : U"HOME";
+U"RCTRL" : U["END"];
+U"END" : U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x";

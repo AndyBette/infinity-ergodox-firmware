@@ -7,14 +7,14 @@ KLL = "0.3c";
 Date = "2017-01-17";
 Generator = "KIICONF 0.2";
 
-U"ESC" : U"FUN1";
+U"ESC" : U"ESC";
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
 U"EQUALS" : U"BACKTICK";
-U"FUNCTION1" : U"FUN2";
+U"FUNCTION1" : U"LALT" + U"LGUI" + U"LSHIFT" + U"v";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
@@ -27,8 +27,8 @@ U"D" : U"D";
 U"S" : U"S";
 U"A" : U"A";
 U"TAB" : U"BACKSLASH";
-U"LALT" : U"LALT";
-U"LCTRL" : U"LCTRL";
+U"LALT" : U"FUN1";
+U"LCTRL" : U"LCTRL"; U["LGUI"] + U"s"
 U"FUNCTION2" : U"ENTER";
 U"B" : U"B";
 U"V" : U"V";
@@ -37,14 +37,16 @@ U"X" : U"X";
 U"Z" : U"Z";
 U"LSHIFT" : U"LSHIFT";
 U"HOME" : CONS"PAUSEPLAY";
-U"END" : U"ESCAPE";
+U"END" : U"FUN2";
 U"DELETE" : U"SPACE";
 U"BACKSPACE" : U"BACKSPACE";
 U"FUNCTION5" : U["LGUI"];
 U"FUNCTION4" : U["LGUI"] + U"v";
 U"FUNCTION3" : U["LGUI"] + U"c";
-U"BACKTICK" : U["LGUI"] + U"s";
-U"LGUI" : U"LALT" + U"LGUI" + U"LSHIFT" + U"v";
+U"BACKTICK" : U"LALT";
+U"LGUI" : U"LCTRL";
+
+
 U"FUNCTION6" : U"RBRACE";
 U"6" : U"6";
 U"7" : U"7";

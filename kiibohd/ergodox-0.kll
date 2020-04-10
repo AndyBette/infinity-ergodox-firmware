@@ -7,6 +7,8 @@ KLL = "0.3c";
 Date = "2017-01-17";
 Generator = "KIICONF 0.2";
 
+# Left Side
+
 U"ESC" : U"ESC";
 U"5" : U"5";
 U"4" : U"4";
@@ -46,6 +48,9 @@ U"FUNCTION3" : U["LGUI"] + U"c";
 U"BACKTICK" : U"LALT";
 U"LGUI" : U"LCTRL";
 
+
+
+# Right Side
 
 U"FUNCTION6" : U"RBRACE";
 U"6" : U"6";

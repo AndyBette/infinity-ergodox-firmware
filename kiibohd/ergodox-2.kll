@@ -39,3 +39,6 @@ U"RGUI" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"RIGHT";
 U"SLASH" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"UP";
 U"LEFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";
 U"RSHIFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"C";
+U"N" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"N";
+U"P" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"P";
+

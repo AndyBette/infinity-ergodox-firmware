@@ -9,14 +9,14 @@ Generator = "KIICONF 0.2";
 
 # Left Side
 
-U"ESC" : U"ESC";
+U"ESC" : CONS"PAUSEPLAY";
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
 U"EQUALS" : U"BACKTICK";
-U"FUNCTION1" : U"LALT" + U"LGUI" + U"LSHIFT" + U"v";
+U"FUNCTION1" : U"FUN2";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
@@ -29,7 +29,7 @@ U"D" : U"D";
 U"S" : U"S";
 U"A" : U"A";
 U"TAB" : U"BACKSLASH";
-U"LALT" : U"FUN1";
+U"LALT" : U"ESC";
 U"LCTRL" : U["LGUI"] + U"s";
 U"FUNCTION2" : U"ENTER";
 U"B" : U"B";
@@ -38,16 +38,15 @@ U"C" : U"C";
 U"X" : U"X";
 U"Z" : U"Z";
 U"LSHIFT" : U"LSHIFT";
-U"HOME" : CONS"PAUSEPLAY";
-U"END" : U"FUN2";
-U"DELETE" : U"SPACE";
+U"HOME" : U"LALT" + U"LGUI" + U"LSHIFT" + U"v";
+U"END" : U["LGUI"] + U"v";
+U"DELETE" : U["LGUI"] + U"c";
 U"BACKSPACE" : U"BACKSPACE";
 U"FUNCTION5" : U["LGUI"];
-U"FUNCTION4" : U["LGUI"] + U"v";
-U"FUNCTION3" : U["LGUI"] + U"c";
+U"FUNCTION4" : U"SPACE";
+U"FUNCTION3" : U"FUN1";
 U"BACKTICK" : U"LALT";
 U"LGUI" : U"LCTRL";
-
 
 
 # Right Side

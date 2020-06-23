@@ -7,33 +7,26 @@ KLL = "0.3c";
 Date = "2017-01-17";
 Generator = "KIICONF 0.2";
 
+# General
+
 U"EQUALS" : flashMode();
-U"7" : U"NUMLOCK";
-U"8" : U"P/";
-U"9" : U"P*";
-U"0" : U"P-";
-U"U" : U"P7";
-U"I" : U"P8";
-U"O" : U"P9";
-U"P" : U"P+";
-U"J" : U"P4";
-U"K" : U"P5";
-U"L" : U"P6";
-U"SEMICOLON" : U"P+";
-U"N" : U"P0";
-U"M" : U"P1";
-U"COMMA" : U"P2";
-U"PERIOD" : U"P3";
-U"SLASH" : U"PENTER";
-U"SPACE" : U"P0";
-U"UP" : U"P.";
-U"RIGHT" : U"PENTER";
+U"FUNCTION6" : flashMode();
+U"ESC" : U"CAPSLOCK";
 U"PAGEUP" : U"PAGEUP";
 U"PAGEDOWN" : U"PAGEDOWN";
+U"RCTRL" : U["LGUI"] + U"TAB";
+
+# Media Keys
+
 U"T" : CONS"VOLUMEUP";
 U"R" : CONS"VOLUMEDOWN";
 U"G" : CONS"SCANNEXTTRACK";
 U"F" : CONS"SCANPREVIOUSTRACK";
+
+# ShiftIt Shortcuts
+
+U"MINUS" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"EQUAL";
+U"RBRACE" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"MINUS";
 U"1" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"1";
 U"2" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"2";
 U"3" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"3";
@@ -44,10 +37,8 @@ U"UP" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"LEFT";
 U"RIGHT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"DOWN";
 U"RGUI" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"RIGHT";
 U"SLASH" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"UP";
-U"RCTRL" : U["LGUI"] + U"TAB";
-U"ESC" : U"CAPSLOCK";
-U"MINUS" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"EQUAL";
-U"RBRACE" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"MINUS";
 U"LEFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";
-U"FUNCTION6" : flashMode();
 U"RSHIFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"C";
+U"N" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"N";
+U"P" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"P";
+

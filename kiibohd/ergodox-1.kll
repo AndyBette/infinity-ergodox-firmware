@@ -7,6 +7,8 @@ KLL = "0.3c";
 Date = "2017-01-17";
 Generator = "KIICONF 0.2";
 
+# General
+
 U"ESC" : U"F11";
 U"5" : U"F5";
 U"4" : U"F4";
@@ -21,5 +23,24 @@ U"9" : U"F9";
 U"0" : U"F10";
 U"PAGEUP" : U"PAGEUP";
 U"PAGEDOWN" : U"PAGEDOWN";
-U"LALT" : SYS"WAKEUP";
-U"LSHIFT" : U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x";
+U"RALT" : U"HOME";
+U"RCTRL" : U["END"];
+U"END" : U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x" , U"x";
+
+# numpad layout
+
+U"Y" : U"P*";
+U"U" : U"P7";
+U"I" : U"P8";
+U"O" : U"P9";
+U"P" : U"P+";
+U"H" : U"P/";
+U"J" : U"P4";
+U"K" : U"P5";
+U"L" : U"P6";
+U"SEMICOLON" : U"P-";
+U"N" : U"P0";
+U"M" : U"P1";
+U"COMMA" : U"P2";
+U"PERIOD" : U"P3";
+U"DOWN" : U"P.";

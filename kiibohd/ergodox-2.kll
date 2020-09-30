@@ -37,8 +37,15 @@ U"UP" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"LEFT";
 U"RIGHT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"DOWN";
 U"RGUI" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"RIGHT";
 U"SLASH" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"UP";
-U"LEFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";
+U"N" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";
 U"RSHIFT" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"C";
-U"N" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"N";
+U"O" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"N";
 U"P" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"P";
+U"M" : U["RGUI"] + U"M";
 
+# Right Dpad
+
+U"I" : U"UP";
+U"J" : U"LEFT";
+U"K" : U"DOWN";
+U"L" : U"RIGHT";

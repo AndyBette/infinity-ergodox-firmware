@@ -44,3 +44,10 @@ U"M" : U"P1";
 U"COMMA" : U"P2";
 U"PERIOD" : U"P3";
 U"DOWN" : U"P.";
+
+# left Dpad
+
+U"W" : U"UP";
+U"A" : U"LEFT";
+U"S" : U"DOWN";
+U"D" : U"RIGHT";

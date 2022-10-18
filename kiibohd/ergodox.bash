@@ -34,6 +34,7 @@ DefaultMap="ergodox-0 lcdFuncMap scancode_map lcd_override"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="ergodox-1 lcdFuncMap"
 PartialMaps[2]="ergodox-2 lcdFuncMap"
+PartialMaps[3]="ergodox-3 lcdFuncMap"
 
 
 

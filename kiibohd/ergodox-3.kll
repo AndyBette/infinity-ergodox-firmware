@@ -1,0 +1,22 @@
+Name = "ergodox";
+Layout = "starmangx";
+Base = "Blank";
+Version = "1.0";
+Author = "Andy Bette";
+KLL = "0.3c";
+Date = "2022-10-15";
+Generator = "KIICONF 0.2";
+
+# Left Side
+U"1" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"1";U"2" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"2";U"3" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"3";U"4" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"4";
+U"R" : CONS"VOLUMEDOWN";U"T" : CONS"VOLUMEUP";
+U"F" : CONS"SCANPREVIOUSTRACK";U"G" : CONS"SCANNEXTTRACK";
+
+U"LGUI" : flashMode();U"BACKSPACE" : U["LGUI"] + U["LSHIFT"] + U"[";U"DELETE" : U["LGUI"] + U["LSHIFT"] + U"]";
+
+# Right Side
+U"6" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"1";U"7" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"2";U"8" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"3";U"9" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"4";U"MINUS" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"EQUAL";
+U"Y" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"C";U"U" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"P";U"I" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"UP";U"O" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"N";U"RBRACE" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"MINUS";
+U"J" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"LEFT";U"K" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"DOWN";U"L" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"RIGHT";
+U"RCTRL" : U["LGUI"] + U"TAB";U"N" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"M";U"M" : U["LGUI"] + U"M";
+U"PAGEUP" : U"PAGEUP";U"PAGEDOWN" : U"PAGEDOWN";U"RGUI" : flashMode();

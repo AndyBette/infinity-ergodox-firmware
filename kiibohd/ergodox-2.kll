@@ -4,12 +4,12 @@ Base = "Blank";
 Version = "1.0";
 Author = "Andy Bette";
 KLL = "0.3c";
-Date = "2023-06-12";
+Date = "2023-10-10";
 Generator = "KIICONF 0.2";
 
 # Left Side
 U"1" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"1";U"2" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"2";U"3" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"3";U"4" : U["LGUI"] + U["LALT"] + U["LCTRL"] + U"4";U"ESC" : U["CapsLock"];
-U"Q" : U["LSHIFT"] + U"P";U"W" : U"UP";U"R" : CONS"VOLUMEDOWN";U"T" : CONS"VOLUMEUP";U"FUNCTION1" : CONS"PAUSEPLAY";
+U"W" : U"UP";U"R" : CONS"VOLUMEDOWN";U"T" : CONS"VOLUMEUP";U"FUNCTION1" : CONS"PAUSEPLAY";
 U"A" : U"LEFT";U"S" : U"DOWN";U"D" : U"RIGHT";U"F" : CONS"SCANPREVIOUSTRACK";U"G" : CONS"SCANNEXTTRACK";
 
 U"LGUI" : flashMode();U"BACKSPACE" : U["LGUI"] + U["LSHIFT"] + U"[";U"DELETE" : U["LGUI"] + U["LSHIFT"] + U"]";
